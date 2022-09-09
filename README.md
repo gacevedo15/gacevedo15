@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<div align="center">
 - 🔭 I’m currently working on [test](test)
 
 - 🌱 I’m currently learning **test**
@@ -17,7 +16,6 @@
 - 📄 Know about my experiences [test](test)
 
 - ⚡ Fun fact **test**
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
