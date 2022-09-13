@@ -29,7 +29,7 @@
   <a href="https://github.com/gacevedo15/Terraform-AWS" target="_blank" rel="noreferrer">Terraform-AWS</a>
 
 
-<h3 align="left">Puedes contactarme al e-mail: gacevedoalfonso@gmail.co</h3>
+<h3 align="left">Puedes contactarme al e-mail: gacevedoalfonso@gmail.com</h3>
 
 
 <h3 align="left">También puedes invitarme a un café:</h3>
