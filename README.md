@@ -3,6 +3,7 @@
 
 
 <h3 align="left">Lenguajes y tecnologías que me encantan:</h3>
+<br>
 <p align="left"> 
   
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -21,18 +22,15 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 
 </p>
-
+<br>
 
 <h3 align="left">Proyectos destacados:</h3>
-  <a href="https://github.com/gacevedo15/Terraform-AWS" target="_blank" rel="noreferrer">- Docker-AWS [Docker-AWS](Docker-AWS)</a>
-  
-  - Terraform-AWS [Terraform-AWS](Terraform-AWS)
+  <a href="https://github.com/gacevedo15/Docker-AWS" target="_blank" rel="noreferrer">Docker-AWS</a>
+  <a href="https://github.com/gacevedo15/Terraform-AWS" target="_blank" rel="noreferrer">Terraform-AWS</a>
 
 
-<h3 align="left">Puedes contactarme al e-mail:</h3>
-<p align="left">
-  <p>gacevedoalfonso@gmail.com</p>
-</p>
+<h3 align="left">Puedes contactarme al e-mail: gacevedoalfonso@gmail.co</h3>
+
 
 <h3 align="left">También puedes invitarme a un café:</h3>
 <p><a href="https://www.buymeacoffee.com/gacevedoalx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gacevedoalx" /></a></p><br><br>
