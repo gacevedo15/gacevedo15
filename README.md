@@ -25,7 +25,7 @@
 <br>
 
 <h3 align="left">Proyectos destacados:</h3>
-  <a href="https://github.com/gacevedo15/Docker-AWS" target="_blank" rel="noreferrer">Docker-AWS</a>
+  <a href="https://github.com/gacevedo15/Docker-AWS" target="_blank" rel="noreferrer">Docker-AWS</a><br>
   <a href="https://github.com/gacevedo15/Terraform-AWS" target="_blank" rel="noreferrer">Terraform-AWS</a>
 
 
