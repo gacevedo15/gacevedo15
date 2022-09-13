@@ -1,4 +1,4 @@
-<h1 align="center">🙂 Hola 🙂, soy Gustavo</h1>
+<h1 align="center">Hola, soy Gustavo 👋</h1>
 <h3 align="center">Graduado en Administración de Sistemas Informáticos en Red en búsqueda de la oportunidad para poner en práctica lo aprendido y poder seguir desarrollando mis aptitudes. Apasionado de los entornos cloud, la automatización de servicios. Con conocimientos en lenguajes de programación como Java, Kotlin y Python.</h3>
 
 
