@@ -23,9 +23,10 @@
 </p>
 
 
-<h3 align="left">Proyectos desarrollados</h3>
-  - Docker-AWS [Ver proyecto](Docker-AWS)
-  - Terraform-AWS [Ver proyecto](Terraform-AWS)
+<h3 align="left">Proyectos destacados:</h3>
+  <a href="https://github.com/gacevedo15/Terraform-AWS" target="_blank" rel="noreferrer">- Docker-AWS [Docker-AWS](Docker-AWS)</a>
+  
+  - Terraform-AWS [Terraform-AWS](Terraform-AWS)
 
 
 <h3 align="left">Puedes contactarme al e-mail:</h3>
