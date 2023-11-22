@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Gustavo 👋</h1>
-<h3 align="center">Graduado en Administración de Sistemas Informáticos en Red en búsqueda de la oportunidad para poner en práctica lo aprendido y poder seguir desarrollando mis aptitudes. Apasionado de los entornos cloud, la automatización de servicios. Con conocimientos en lenguajes de programación como Java, Kotlin, Python, C y C++.</h3>
+<h3 align="center">Graduado en Administración de Sistemas Informáticos en Red y estudiante de Ingeniería Informática con sólidos conocimientos en programación orientada a objetos en lenguajes como Java. Mi entusiasmo por iniciar mi carrera como Ingeniero de Software se refleja en mi deseo de aplicar mis conocimientos en un entorno laboral dinámico. Busco oportunidades para expandir mis habilidades y aportar de manera significativa a un equipo colaborativo,participando activamente en el desarrollo de soluciones innovadoras.</h3>
 
 
 <h3 align="left">Lenguajes y tecnologías que me encantan:</h3>
